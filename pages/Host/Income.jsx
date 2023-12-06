@@ -1,5 +1,5 @@
 import React from "react"
-import income from "../assets/images/income-graph.png"
+import income from "../../assets/images/income-graph.png"
 
 
 export default function Income() {
